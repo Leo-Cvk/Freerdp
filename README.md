@@ -18,6 +18,6 @@ Buat RDP Windows Ram 7GB 2 Core Cpu Dengan Github:
 + Tekan Tombol panah menghadap ke bawah "RDP INFO LOGIN" Untuk Mendapatkan IP, User, Password.
 
 
-#WARN
+# WARN
 
 JANGAN RECORD SU HARGAI GWE AUTHOR
